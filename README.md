@@ -11,6 +11,5 @@ Skills
 </div>
 
 <div style="display: inline_block"><br/>
-  <img aling="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
-"/>
+  <img aling="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div>
