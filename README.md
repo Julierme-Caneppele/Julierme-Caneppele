@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Julierme-Caneppele
+- 🌱 I’m currently learning EDA.
