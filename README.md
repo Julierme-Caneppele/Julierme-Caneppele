@@ -7,10 +7,17 @@ Connect with me:
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Julierme-Caneppele)
 
-POWER BI [![PowerBI].(https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
-([https://app.powerbi.com/view?r=eyJrIjoiZjc2NzE5OGEtNTM3OC00YmQ1LTg1YjQtNGFjNmQ0OGFhNmIyIiwidCI6ImU4Y2YyNjM5LTFmOTgtNGJiNC1iZDg5LWFiZDE0OTI4OTM3ZiJ9)
+PowerBI Projects -> 
+1- Pesquisa NPS sobre clientes de automóveis, com base de dados MSSQL, utilização de Gráfico de imagem, cálculo NPS, e linguagem DAX..
 
 [![PowerBI](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiZjc2NzE5OGEtNTM3OC00YmQ1LTg1YjQtNGFjNmQ0OGFhNmIyIiwidCI6ImU4Y2YyNjM5LTFmOTgtNGJiNC1iZDg5LWFiZDE0OTI4OTM3ZiJ9)
+
+
+2- Pesquisa aos consumidores de empresa de bebidas sobre suas marcas. Com o objetivo de gerar insights e capitalizar dados históricos. Foi utilizado SQL como fonte de dados, e o Power BI Dekstop com Power Automate para envio de emails. Detalhamento de informações com Drill Through, e criação de Bookmarks para o relatório. Testes estatísticos com DAX, gráficos de IA e transformações de dados com SQL.
+
+[![PowerBI](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiZThjZjlhNGUtNDAzMS00ZDVmLTliZGEtNTE1NTQ1ZThjODlhIiwidCI6ImU4Y2YyNjM5LTFmOTgtNGJiNC1iZDg5LWFiZDE0OTI4OTM3ZiJ9
+)
+
 
 Skills:
 <div style="display: inline_block"><br/>
