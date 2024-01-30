@@ -7,9 +7,10 @@ Connect with me:
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Julierme-Caneppele)
 
-POWER BI .[![PowerBI].(https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+POWER BI [![PowerBI].(https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 ([https://app.powerbi.com/view?r=eyJrIjoiZjc2NzE5OGEtNTM3OC00YmQ1LTg1YjQtNGFjNmQ0OGFhNmIyIiwidCI6ImU4Y2YyNjM5LTFmOTgtNGJiNC1iZDg5LWFiZDE0OTI4OTM3ZiJ9)
 
+[![PowerBI](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiZjc2NzE5OGEtNTM3OC00YmQ1LTg1YjQtNGFjNmQ0OGFhNmIyIiwidCI6ImU4Y2YyNjM5LTFmOTgtNGJiNC1iZDg5LWFiZDE0OTI4OTM3ZiJ9)
 
 Skills:
 <div style="display: inline_block"><br/>
