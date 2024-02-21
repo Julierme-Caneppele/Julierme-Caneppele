@@ -18,6 +18,10 @@ PowerBI Projects ->
 [![PowerBI](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiZThjZjlhNGUtNDAzMS00ZDVmLTliZGEtNTE1NTQ1ZThjODlhIiwidCI6ImU4Y2YyNjM5LTFmOTgtNGJiNC1iZDg5LWFiZDE0OTI4OTM3ZiJ9
 )
 
+3- Projeto Fictício sobre dados do Varejo. Utilização do ChatGPT para criação de script de tabelas dimensionas em python para projeto fictício em formato csv. Área do varejo e indicadores de desempenho. Download das tabelas após rodar o código no Google Colab e criação do Dashboard no Microsoft PowerBI.
+
+[![PowerBI](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiNmE0NDQwYTAtYWZiYS00OGYwLWFlMmItYjBlZWVkMGFkZDc5IiwidCI6ImU4Y2YyNjM5LTFmOTgtNGJiNC1iZDg5LWFiZDE0OTI4OTM3ZiJ9
+)
 
 Skills:
 <div style="display: inline_block"><br/>
